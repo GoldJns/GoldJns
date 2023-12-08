@@ -5,6 +5,8 @@ Im a student interested in software development, currently learning React.
 #### Find me around the web 🌍:
 - [LinkedIn](https://www.linkedin.com/in/jonas-goldnik-4a32b326b/)
 
+![activitygraph](https://github-readme-activity-graph.vercel.app/graph?username=GoldJns&theme=react)
+
 ![profilestats](https://github-profile-trophy.vercel.app/?username=goldjns&theme=radical)
 ![s](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldJns&theme=radical)
 
